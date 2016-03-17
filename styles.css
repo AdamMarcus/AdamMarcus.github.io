@@ -1,0 +1,26 @@
+header {
+  font-family: monospace;
+  font-size: 40px;
+}
+
+body {
+  background-color: rgb(255, 236, 179);
+}
+
+ul {
+  list-style: none;
+}
+
+.page-link-button {
+  background-color: rgb(111, 245, 191);
+  border-top-style: ridge;
+  border-left-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style: ridge;
+  border-color: blue;
+}
+
+.site-nav {
+  float: right;
+  line-height: 0px;
+}
