@@ -1,10 +1,11 @@
 header {
+  color: rgb(255, 255, 255);
   font-family: monospace;
   font-size: 40px;
 }
 
 body {
-  background-color: rgb(255, 236, 179);
+  background-color: rgb(40, 43, 62);
 }
 
 ul {
@@ -18,6 +19,9 @@ ul {
   border-right-style: ridge;
   border-bottom-style: ridge;
   border-color: blue;
+}
+
+h1 {
 }
 
 .site-nav {
